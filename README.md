@@ -12,4 +12,5 @@ Tahap - tahapan Algoritma Genetika:
 6. Mutasi
 
 Created By: I Putu Sedana Wijaya
-email : sedanawjy@gmail.com
+
+Email : sedanawjy@gmail.com
