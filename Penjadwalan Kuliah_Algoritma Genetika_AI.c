@@ -34,7 +34,7 @@ int main(){
 			printf("Kode mata kuliah\t: ");
 			scanf("%s",&kuliah[n].kode);
 			printf("Nama mata kuliah\t: ");
-			scanf("%s",&kuliah[n].nama);
+			fflush(stdin); gets(kuliah[n].nama);
 			printf("Jumlah SKS\t\t: ");
 			scanf("%d",&kuliah[n].sks);
 			totalsks = totalsks + (kuliah[n].sks * 50);
