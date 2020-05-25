@@ -1,4 +1,3 @@
-#Penjadwalan-Kuliah-AI
 Menu pada program:
 1. Input Mata Kuliah (Kode Mata Kuliah, Nama Mata Kuliah, SKS)
 2. Lihat Data Mata Kuliah
